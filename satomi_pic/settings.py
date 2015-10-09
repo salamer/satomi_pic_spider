@@ -87,5 +87,5 @@ NEWSPIDER_MODULE = 'satomi_pic.spiders'
 ITEM_PIPELINES={
 	'scrapy.pipelines.images.ImagesPipeline':1
 }
-IMAGES_STORE='/home/aljun/pythonlearning/spider/spider/satomi_pic/satomi_pic'
+IMAGES_STORE='/home/aljun/pythonlearning/spider/spider/satomi_pic/satomi_pic/kiko'
 
